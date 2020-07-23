@@ -1,6 +1,6 @@
 // Rogerio Wong
 // 20/02/20
-
+# testing first changes using git hub
 int gap = 90;// the space between each coordinate of space
 
 PVector[] pos; // array of vector positions that carry a mass
